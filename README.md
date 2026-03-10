@@ -7,8 +7,8 @@ A multi-agent AI pipeline that ingests data, processes it, and generates structu
 - Multi-agent architecture
 - Context-aware memory system
 - Structured Markdown reporting
-- Modular ingestion pipeline
-- Configurable agent memory
+- Modular agentic pipeline
+- Automated and environment independent
 
 ## Project Structure
 
@@ -31,9 +31,3 @@ pip install -r requirements.txt
 ## Run
 
 python main.py
-
-## Future Improvements
-
-- Add LLM integration
-- Add streaming data ingestion
-- Deploy as microservice
