@@ -1,4 +1,4 @@
-# Agentic SI Summarizer
+# Agentic AI Summarizer
 
 A multi-agent AI pipeline that ingests data, processes it, and generates structured executive summaries.
 
